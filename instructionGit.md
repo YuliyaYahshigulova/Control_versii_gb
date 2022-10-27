@@ -34,7 +34,6 @@
 
 ![Mac OS](apple-mac-os-x-10.png)
 
-
 ## Основные команды Git
 
 * __git config --global user.name__ - устанавливает логин пользователя
